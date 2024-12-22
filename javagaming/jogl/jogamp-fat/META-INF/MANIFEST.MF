@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Application-Name: JogAmp Java Bindings
+Specification-Title: JogAmp Java Bindings Specification
+Specification-Version: 2.5
+Specification-Vendor: JogAmp Community
+Implementation-Title: JogAmp Java Bindings Fat Jar
+Implementation-Version: 2.5.0
+Implementation-Build: 2.5-b967-20230818
+Implementation-Branch: origin/master
+Implementation-Commit: a235ae5dae463afa16f62f48bf62f896efa80b68
+Implementation-Vendor: JogAmp Community
+Implementation-URL: http://jogamp.org/
+Extension-Name: com.jogamp
+Implementation-Vendor-Id: com.jogamp
+Main-Class: com.jogamp.newt.opengl.GLWindow
+Trusted-Library: true
+Permissions: all-permissions
+Application-Library-Allowable-Codebase: *
+Codebase: *.jogamp.org
+Created-By: 17.0.4 (Debian)
+
+Name: com/jogamp/common/
+Sealed: true
+
+Name: jogamp/common/
+Sealed: true
+
