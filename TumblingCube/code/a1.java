@@ -1,6 +1,6 @@
 
 //need the package too it seems 
-package code;
+package a1;
 
 
 import javax.swing.*;
