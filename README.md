@@ -6,3 +6,6 @@ graphics pipeline, perspective projection, hidden surface removal, synthetic cam
 representation and generation of 3D models, texture mapping, lighting, materials, shadows,
 skyboxes, normal and height mapping, blending for transparency, stereoscopy, and ray tracing.
 Emphasis on hardware support and shader programming. systems. 
+
+
+/image.png
